@@ -1,0 +1,12 @@
+body{
+    color:black;
+    background:#FFE642;
+    margin:0px;
+}
+
+header{
+ border-bottom: solid 2px #F2B67E;
+padding: 20px;
+font-size:32px;
+color:black;
+}
